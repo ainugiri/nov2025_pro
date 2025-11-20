@@ -8,3 +8,6 @@ Break
 
 
 Commit ID?
+PULL vs Clone
+Clone - Only one time, copy entire repo(all branches, set remote url)
+Pull -  We need add remote repo, git pull with branch, it will get the particular branch, use it continuously, to get the updated files from remote, use git pull.
